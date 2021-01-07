@@ -6,7 +6,6 @@ const Constraint = Matter.Constraint;
 var engine, world;
 var polygon, ground;
 var stand1,stand2;
-var ball;
 var slingShot;
 var polygon_img;
 var block1, block2, block3, block4, block5, block6, block7, block8, block9, block10, block11, block12, 
